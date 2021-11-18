@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/conditon and loops/conditon and loops.iml" filepath="$PROJECT_DIR$/conditon and loops/conditon and loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/first program.iml" filepath="$PROJECT_DIR$/first program.iml" />
     </modules>
   </component>
